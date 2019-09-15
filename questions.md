@@ -20,9 +20,9 @@ Visual Studio, Eclipse, Android Studio, Vim, NetBeans and others.</p>
 > What are the different types of web hosting exist?
 
 <p>Web hostings differentiate by storage capacity, control, technical knowledge requirement, server speed and reliability. There are:<br>
-* Shared hosting - many websites are stored on the same server and share it's resources(RAM,CPU). The cost of such hosting is relatively low.<br>
-* Visual private server - websites are hosted within their own spaces on the server but still share physical server.VPS provide more customization and storage space.<br>
-* Dedicated hosting -  server is exclusively rented by a website, its the only one stored on it.<br>
-* Cloud hosting - a hosting solution that works via a network and enables users to employ as many resources as they need.The resources that are being used are spread across several servers, reducing the chance of any downtime.<br>
-* Managed hosting - the provider of hosting company looks after the day-to-day management of the hardware, operating systems and standardised applications.<br>
-* Colocation - renting space in a colocation center that provides power, bandwidth and other stuff server requires. Everything(like hardware, software, services) should be taken care of.</p>
+- Shared hosting - many websites are stored on the same server and share it's resources(RAM,CPU). The cost of such hosting is relatively low.<br>
+- Visual private server - websites are hosted within their own spaces on the server but still share physical server.VPS provide more customization and storage space.<br>
+- Dedicated hosting -  server is exclusively rented by a website, its the only one stored on it.<br>
+- Cloud hosting - a hosting solution that works via a network and enables users to employ as many resources as they need.The resources that are being used are spread across several servers, reducing the chance of any downtime.<br>
+- Managed hosting - the provider of hosting company looks after the day-to-day management of the hardware, operating systems and standardised applications.<br>
+- Colocation - renting space in a colocation center that provides power, bandwidth and other stuff server requires. Everything(like hardware, software, services) should be taken care of.</p>
